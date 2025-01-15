@@ -1,0 +1,15 @@
+/*
+Theme Name: Astra Child
+Theme URI: https://"your site url"/astra-child/
+Description: A child theme for the Astra WordPress theme.
+Author: Your Name
+Author URI: https://"your site url"/
+Template: astra
+Version: 4.8.1
+Text Domain: astra-child
+*/
+
+/* Import the parent theme's styles */
+@import url('../astra/style.css');
+
+/* Your custom styles go here */
